@@ -38,9 +38,9 @@ O componente SideBar.jsx deve ficar responsável pela listagem de todos os gêne
   <img title="Preview da página exibindo os filmes do gênero ação" src="./public/screenshot/watchme-acao.jpg" width="400px" alt="Preview da página exibindo os filmes do gênero ação">
   <img title="Preview da página exibindo os filmes do gênero comédia" src="./public/screenshot/watchme-comedia.jpg" width="400px" alt="Preview da página exibindo os filmes do gênero comédia">
   <img title="Preview da página exibindo os filmes do gênero documentário" src="./public/screenshot/watchme-documentario.jpg" width="400px" alt="Preview da página exibindo os filmes do gênero documentário">
-  <img title="Preview da página exibindo os filmes do gênero drama" src="./public/screenshot/watchme-documentario.jpg" width="400px" alt="Preview da página exibindo os filmes do gênero drama">
-  <img title="Preview da página exibindo os filmes do gênero terror" src="./public/screenshot/watchme-documentario.jpg" width="400px" alt="Preview da página exibindo os filmes do gênero terror">  
-  <img title="Preview da página exibindo os filmes do gênero família" src="./public/screenshot/watchme-documentario.jpg" width="400px" alt="Preview da página exibindo os filmes do gênero família">
+  <img title="Preview da página exibindo os filmes do gênero drama" src="./public/screenshot/watchme-drama.jpg" width="400px" alt="Preview da página exibindo os filmes do gênero drama">
+  <img title="Preview da página exibindo os filmes do gênero terror" src="./public/screenshot/watchme-terror.jpg" width="400px" alt="Preview da página exibindo os filmes do gênero terror">  
+  <img title="Preview da página exibindo os filmes do gênero família" src="./public/screenshot/watchme-familia.jpg" width="400px" alt="Preview da página exibindo os filmes do gênero família">
 </p>
 
 ## 🚀 Como executar o projeto
